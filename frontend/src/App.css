@@ -3,7 +3,7 @@
 .App {
   min-height: 100vh;
   display: flex;
-  background-image: url("./background.png");
+  background-image: url("https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
   background-position: center;
   background-size: cover;
 }
